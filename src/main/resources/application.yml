@@ -1,0 +1,3 @@
+spring:
+  websocket:
+    uri: "wss://kakao.e-bus.co.kr/websocket"
