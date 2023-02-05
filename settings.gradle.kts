@@ -1,1 +1,2 @@
-rootProject.name = "alarm"
+
+rootProject.name = "kakao-bus-alarm"
